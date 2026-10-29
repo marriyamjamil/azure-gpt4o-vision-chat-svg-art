@@ -1,0 +1,11 @@
+# Secrets - set these in Azure App Settings instead
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# PNG that svg_image_maker.py writes when it runs
+apps/image.png 
